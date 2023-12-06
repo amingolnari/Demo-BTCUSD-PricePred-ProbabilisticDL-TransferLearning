@@ -11,7 +11,10 @@ b) Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran
 c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
 **Link to the preprint version on ResearchGate:** [Click here](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction_under_Uncertainty)
-**Or Run it in Google Colab:**    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning/blob/main/Demo_BTCUSD_PricePred_5min_TensorFlowProb.ipynb)
+
+**Or Run it in Google Colab:**    
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning/blob/main/Demo_BTCUSD_PricePred_5min_TensorFlowProb.ipynb)
 
 *Cryptocurrency Price Prediction Demo using Probabilistic Deep Learning and Transfer Learning*
 
