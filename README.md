@@ -2,17 +2,14 @@
 
 **Authors:**
 
-(a) **Amin Golnari**, (b) **Mohammad Hossein Komeili**, (c) **Zahra Azizic**
-
-a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran
-
-b) Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran
-
+**Amin Golnari <sup>a<sup>**, **Mohammad Hossein Komeili <sup>b<sup>**, **Zahra Azizic <sup>c<sup>** <br>
+a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran <br>
+b) Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran <br>
 c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
 **Link to the preprint version on ResearchGate:** [Click here](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction_under_Uncertainty)
 
-**Or Run it in Google Colab:**    
+**Or You Can Run this Python Code [Demo] on Google Colab:**    
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amingolnari/Demo-BTCUSD-PricePred-ProbabilisticDL-TransferLearning/blob/main/Demo_BTCUSD_PricePred_5min_TensorFlowProb.ipynb)
 
@@ -42,7 +39,7 @@ c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
    - *Normalize and split the data into training and testing sets.*
 
 2. **Model Training:**
-   - *Train various deep learning models (include probabilistic model) with different architectures on BTC price data.*
+   - *Train various deep learning models (including probabilistic models) with different architectures on BTC price data.*
    - *Models include both GRU and LSTM variants.*
 
 3. **Transfer Learning:**
