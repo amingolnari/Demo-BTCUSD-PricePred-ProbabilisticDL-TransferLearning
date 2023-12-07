@@ -2,7 +2,7 @@
 
 **Authors:**
 
-**Amin Golnari <sup>a<sup>**, **Mohammad Hossein Komeili <sup>b<sup>**, **Zahra Azizic <sup>c<sup>** <br>
+**Amin Golnari <sup>a<sup>**, **Mohammad Hossein Komeili <sup>b<sup>**, **Zahra Azizi <sup>c<sup>** <br>
 a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran <br>
 b) Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran <br>
 c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
