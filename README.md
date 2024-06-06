@@ -1,4 +1,4 @@
-# [**Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction under Uncertainty**](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction_under_Uncertainty)
+# [**Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction**](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction)
 
 **Authors:**
 
@@ -7,7 +7,7 @@ a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood
 b) Faculty of Mathematics & Computer Science, Shahid Beheshti University, Tehran, Iran <br>
 c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
-**Link to the preprint version on ResearchGate:** [Click here](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction_under_Uncertainty)
+**Link to the preprint version on ResearchGate:** [Click here](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction)
 
 **Or You Can Run this Python Code [Demo] on Google Colab:**    
 
