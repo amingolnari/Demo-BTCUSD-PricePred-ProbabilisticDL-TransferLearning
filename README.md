@@ -1,6 +1,7 @@
 # [**Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction**](https://www.researchgate.net/publication/373271371_Probabilistic_Deep_Learning_and_Transfer_Learning_for_Robust_Cryptocurrency_Price_Prediction)
 
-**Authors:**
+Amin Golnari, Mohammad Hossein Komeili, and Zahra Azizi. **"Probabilistic Deep Learning and Transfer Learning for Robust Cryptocurrency Price Prediction."** Expert Systems with Applications 255 (2024) 124404. [https://doi.org/10.1016/j.eswa.2024.124404](https://doi.org/10.1016/j.eswa.2024.124404)
+
 
 **Amin Golnari <sup>a<sup>**, **Mohammad Hossein Komeili <sup>b<sup>**, **Zahra Azizi <sup>c<sup>** <br>
 a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood, Iran <br>
