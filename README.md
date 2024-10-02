@@ -16,6 +16,10 @@ c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
 *Cryptocurrency Price Prediction Demo using Probabilistic Deep Learning and Transfer Learning*
 
+**Compatibility:**
+- TensorFlow: 2.15.1
+- Keras: 2.15.0
+- TensorFlow Probability: 0.23.0
 
 **This demo showcases the prediction of cryptocurrency prices using probabilistic deep learning models. Various architectures based on Gated Recurrent Units (GRU) and Long Short-Term Memory (LSTM) are implemented for this purpose. Additionally, the code demonstrates transfer learning, where a pre-trained model on Bitcoin (BTC) price data is used as a foundation to train models for other cryptocurrencies.**
 
