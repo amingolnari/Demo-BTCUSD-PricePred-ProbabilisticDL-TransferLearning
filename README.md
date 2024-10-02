@@ -63,3 +63,17 @@ c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
 
 **Note:** This innovative methodology challenges the conventional approach to model selection by recognizing that optimal performance may not align with epochs characterized by the absolute minimum value of the loss function on the validation dataset. Traditionally, the tendency has been to associate the best model with the epoch where the loss function achieves its minimum value. However, our approach introduces a more nuanced perspective, considering scenarios where a model at epoch 20 with a loss function value outperforms its minimum loss at epoch 30 on the validation dataset. This paradigm shift redirects the focus from fixating solely on minimum loss values to a dynamic assessment that accounts for the model's efficacy at different epochs. R2-score monitoring on the validation dataset becomes pivotal in identifying epochs where the model excels in capturing underlying patterns in cryptocurrency price data. This adaptive and forward-looking approach ensures a more nuanced and resilient model selection, enhancing the robustness of cryptocurrency price prediction models without being confined to the traditional emphasis on achieving the lowest loss function value.
+
+
+If our work is helpful to you, please kindly cite our paper as:
+
+    @article{GOLNARI2024124404,
+       title={Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction},
+       author={Golnari, Amin and Komeili, Mohammad Hossein and Azizi, Zahra},
+       journal={Expert Systems with Applications},
+       volume={255},
+       pages={124404},
+       year={2024},
+       publisher={Elsevier},
+       doi={https://doi.org/10.1016/j.eswa.2024.124404}
+    }
