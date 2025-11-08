@@ -67,7 +67,8 @@ c) Department of Computer Engineering, University of Afarinesh, Borujerd, Iran
 
 If our work is helpful to you, please kindly cite our paper as:
 
-    @article{GOLNARI2024124404,
+```bibtex
+    @article{golnari2024prob,
        title={Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction},
        author={Golnari, Amin and Komeili, Mohammad Hossein and Azizi, Zahra},
        journal={Expert Systems with Applications},
@@ -77,3 +78,4 @@ If our work is helpful to you, please kindly cite our paper as:
        publisher={Elsevier},
        doi={https://doi.org/10.1016/j.eswa.2024.124404}
     }
+```
